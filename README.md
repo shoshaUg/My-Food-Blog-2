@@ -1,5 +1,5 @@
 
- <h1 align="center"> AKWAABAH_KITCHEN</h1>
+ <h1 align="center"> MY_FOOD-BLOG</h1>
  <h3 align="center">A simple website that unites the taste in some rich Ghanaian recipe</h3>
 
 <div align="center">
